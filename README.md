@@ -7,7 +7,7 @@
   <br/><br/>
   <a href="https://matrax.dev" target="_blank">🌐 Portfolio</a> ·
   <a href="https://codeworks.ovh" target="_blank">🛡️ Code Works</a> ·
-  <a href="mailto:contact.matrax@gmail.com">✉️ Me contacter</a>
+  <a href="mailto:hello@matrax.dev">✉️ Me contacter</a>
 </p>
 
 ---
@@ -90,7 +90,7 @@ Retrouve également mes bots et contributions sur [mon profil Top.gg](https://to
   <a href="https://www.tiktok.com/@mqthys"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
   <a href="https://www.twitch.tv/matrax_tv"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
   <a href="https://www.youtube.com/@_matrax_9000"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="mailto:contact.matrax@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:hello@matrax.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ## 💙 Soutenir mes projets
