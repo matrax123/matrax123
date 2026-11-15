@@ -58,18 +58,24 @@ Retrouve également mes bots et contributions sur [mon profil Top.gg](https://to
 
 ## 📊 Statistiques GitHub
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=matrax123&show_icons=true&theme=react&hide_border=true&rank_icon=github"
-    alt="Statistiques GitHub de Matrax"
-    height="180"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=matrax123&theme=react&hide_border=true"
-    alt="Série de contributions GitHub de Matrax"
-    height="180"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=matrax123&show_icons=true&theme=react&hide_border=true&rank_icon=github"
+        alt="Statistiques GitHub de Matrax"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=matrax123&theme=react&hide_border=true"
+        alt="Série de contributions GitHub de Matrax"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <sub>Les statistiques dépendent de la disponibilité des services tiers et des données publiques accessibles sur GitHub.</sub>
