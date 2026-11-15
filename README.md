@@ -69,11 +69,6 @@ Retrouve également mes bots et contributions sur [mon profil Top.gg](https://to
     alt="Série de contributions GitHub de Matrax"
     height="180"
   />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=matrax123&layout=compact&theme=react&hide_border=true"
-    alt="Répartition des langages utilisés dans les dépôts GitHub"
-    height="180"
-  />
 </p>
 
 <p align="center">
