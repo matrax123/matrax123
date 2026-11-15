@@ -6,7 +6,7 @@
   JavaScript · Node.js · HTML · CSS · PHP
   <br/><br/>
   <a href="https://matrax.dev" target="_blank">🌐 Portfolio</a> ·
-  <a href="https://safeprotect.xyz" target="_blank">🛡️ Safe Protect</a> ·
+  <a href="https://codeworks.ovh" target="_blank">🛡️ Code Works</a> ·
   <a href="mailto:contact.matrax@gmail.com">✉️ Me contacter</a>
 </p>
 
