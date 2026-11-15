@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Matrax 👋</h1>
+<h1 align="center">Salut, moi c'est matrax.dev 👋</h1>
 
 <p align="center">
   <b>Développeur web & créateur de projets numériques</b>
