@@ -60,7 +60,7 @@ Retrouve également mes bots et contributions sur [mon profil Top.gg](https://to
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=matrax123&show_icons=true&theme=react&hide_border=true&rank_icon=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matrax123&theme=github_dark"
     alt="Statistiques GitHub de Matrax"
     height="180"
   />
@@ -73,8 +73,8 @@ Retrouve également mes bots et contributions sur [mon profil Top.gg](https://to
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrax123&layout=compact&theme=react&hide_border=true"
-    alt="Langages les plus utilisés sur GitHub"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matrax123&theme=github_dark"
+    alt="Répartition des langages utilisés dans les dépôts GitHub"
   />
 </p>
 
